@@ -442,3 +442,7 @@ ul a:hover{
 .last-page2{
     padding-top: 5px;
 }
+
+body {
+    caret-color: transparent;
+}
